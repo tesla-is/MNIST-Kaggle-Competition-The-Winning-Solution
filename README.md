@@ -2,6 +2,7 @@
 The project provides a step by step guide to solving and winning the MNIST competition on Kaggle. MNIST is a famous computer vision dataset that is often cited as a "Hello World!" for Machine Learning.
 
 In this project I have demonstrated how to step by step design a model to tackle the MNIST challenge.
+Download the dataset : https://www.kaggle.com/c/digit-recognizer
 
 A special regard to Francis Chollet (Author of Keras) for writing an amazing book, "Deep Learning with Python".
 
