@@ -7,6 +7,8 @@ A special regard to Francis Chollet (Author of Keras) for writing an amazing boo
 
 Let us begin!
 
+![Kaggle](KaggleMNISThist3.png)
+
 I have used the following techniques which will get you a step by step increment on the test set accuracy
 
 1. Random Forest Algorithm (93.5% on the Test set)
