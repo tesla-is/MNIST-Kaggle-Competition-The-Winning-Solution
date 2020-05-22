@@ -43,7 +43,7 @@ A lot of notebooks use an ensemble CNN or simple CNN with the full MNIST dataset
 
 But wait! If cheating is what you want to do, maybe do it the smart way. Simply use a Decision Tree Algorithm with (max_depth = None). It is in the nature of Decision Trees to overfit the training data. You'll get a perfect score of 100%.
 
-The winning solution is in notebook version 9
+The winning solution is in notebook version 2
 
 Make sure to implement all the versions.
 
