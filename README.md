@@ -47,4 +47,8 @@ The winning solution is in notebook version 9
 
 Make sure to implement all the versions.
 
-I am sure you will find it useful. 
+If you find the project useful, please upvote it on Kaggle. My id is mentioned below.
+
+https://www.kaggle.com/captaintyping
+
+
